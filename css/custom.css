@@ -1,0 +1,39 @@
+footer a{
+    text-decoration: none;
+    color: #455880;
+    margin-bottom: 1rem;
+}
+
+
+.nav-bg{
+    background-color: #F0F2F6;
+}
+
+.hero-mg{
+    margin-top: 214px; color: #455880;
+}
+
+.f-w{
+    width: 80%;
+}
+
+.img-m{
+    margin-top: -120px;
+}
+
+@media screen and (max-width:500px){
+    .img-m{
+        margin-top: -50px;
+    }
+}
+@media screen and (max-width:800px){
+    .f-w{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:992px){
+    .hero-mg{
+        margin-top: 150px;
+    }
+}
