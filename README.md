@@ -2,7 +2,7 @@
 
 A fully responsive static site.
 
-Live Site URL: [restaurant-bs](https://ved-er.github.io/restaurant-bs/)
+Live Site URL: [digits-bs](https://ved-er.github.io/digits-bs/)
 
 
 ## Built with
@@ -13,12 +13,13 @@ Live Site URL: [restaurant-bs](https://ved-er.github.io/restaurant-bs/)
 
 
 ## Screenshot
-![Your Favourite Restaurant 11-23-2021 7-07-27 PM](https://user-images.githubusercontent.com/92994473/143080237-72be88ed-41ff-44ac-9f77-8e11b305cf0d.png)
+![Bootstrap v5 Themekit 11-23-2021 8-07-49 PM](https://user-images.githubusercontent.com/92994473/143088244-fecb4090-0735-4c2d-b39d-0c089a0e2ac5.png)
+
 
 
 
 ### Note:
-Design from webflow.
+Design from figmatemplate.com
 
 ## Author
 
